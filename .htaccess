@@ -1,0 +1,4 @@
+
+ErrorDocument 400  /sc_errors/400.php
+ErrorDocument 401  /sc_errors/401.php
+ErrorDocument 404  /sc_errors/404.php
